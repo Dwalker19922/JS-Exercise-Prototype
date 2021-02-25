@@ -119,12 +119,17 @@ console.log(liam)
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-Is the function called by new? t
+Is the function called by new? 
+id the function triggered  by the new keyword
 Is the function called by call(), apply(), or bind()?
+is it called by call,or apply because they are simular or bind that permantly creats a function binding.
 Is the function called as a method, ie: obj.func()?
+it is it function that deals with onjects and does it push to object
+
+
 Is the function called in the global scope?
 ///////// END OF CHALLENGE /////////
-
+npm inst
 /* 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 Please do not modify anything below this line 🛑🛑🛑🛑🛑🛑🛑🛑🛑🛑 */
 function foo(){
   return 'bar';
