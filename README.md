@@ -40,4 +40,4 @@ There are stretch goals found throughout `index.js`. Do not start work on these 
 
 ## Submission format
 
-Please see canvas for cohort specific submission instructions
+Please see canvas for cohort specific submission instruction
